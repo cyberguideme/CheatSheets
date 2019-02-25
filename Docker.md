@@ -821,22 +821,3 @@ vim httpd.conf
 docker run --rm -ti -v "$PWD/httpd.conf:/usr/local/apache2/conf/httpd.conf:ro" -p "80:80" httpd
 ```
 
-## Contributing
-
-Here's how to contribute to this cheat sheet.
-
-### Open README.md
-
-Click [README.md](https://github.com/wsargent/docker-cheat-sheet/blob/master/README.md) <-- this link
-
-![Click This](images/click.png)
-
-### Edit Page
-
-![Edit This](images/edit.png)
-
-### Make Changes and Commit
-
-![Change This](images/change.png)
-
-![Commit](images/commit.png)
